@@ -6,9 +6,13 @@
 
 | Project | What it is | One proof point |
 |---|---|---|
-| [**agent-perimeter**](https://github.com/Berakhah/agent-perimeter) | Security scanner for MCP servers and agents, with SARIF output and a GitHub Action | Passive census of the whole official MCP Registry (31,953 entries, 14 Sep 2026); every published figure is reproducible from `records.csv` |
+| [**agent-perimeter**](https://github.com/Berakhah/agent-perimeter) | Security scanner for MCP servers and agents: SARIF output, a GitHub Action, and `uv tool install agent-perimeter-scan` | Passive census of the whole official MCP Registry (31,953 entries, 14 Sep 2026); every published figure is reproducible from `records.csv` |
 | [**shopfast-demo**](https://github.com/Berakhah/shopfast-demo) | Intentionally vulnerable Next.js + Supabase + Stripe store, with a sample audit report | 12 planted flaws (3 Critical, 6 High, 3 Medium); CI reproduces 10 of them on every push |
 | [**ground-truth**](https://github.com/Berakhah/ground-truth) | Eval harness for LLM field extraction on invoices and pay applications | Headline numbers are recomputed from published per-item verdicts by a stdlib-only script. No real provider results yet; the README says so |
+
+### Writing
+
+[0 of 302: what a full census of the MCP Registry says about the 2026-07-28 revision](https://berakhah.github.io/writing/mcp-registry-census.html) · [Twelve ways an AI-built Supabase + Stripe store leaks customer data](https://berakhah.github.io/writing/shopfast-twelve-leaks.html) · [I deleted a census tier I'd already built](https://berakhah.github.io/writing/scope-files-vs-random-sampling.html)
 
 ### Hire me for
 
@@ -20,6 +24,6 @@ Every finding comes with a reproduction and the code fix, like the [ShopFast sam
 
 ### How I work with AI agents
 
-Most commits in my 2026 repos come from [@Berakhah-sys](https://github.com/Berakhah-sys), the second account my AI coding agents commit through. I design the systems, write the specifications with Claude Code, set the evaluation criteria, and review and test the changes; Claude Code generates a substantial part of the code under my direction. Each repo's README says how it was built and what isn't finished.
+Most commits in my 2026 repos come from [@Berakhah-sys](https://github.com/Berakhah-sys), the second account my AI coding agents commit through. I design the systems, write the specifications with Claude Code, set the evaluation criteria, and review and test the changes; Claude Code generates a substantial part of the code under my direction. From 9 Nov 2026 the convention is that those commits also carry a `Co-authored-by` trailer for this account ([how and why](docs/commit-identity.md)). Each repo's README says how it was built and what isn't finished.
 
 [berakhah.github.io](https://berakhah.github.io) · [Upwork](https://www.upwork.com/freelancers/~01645da719eb4829ed) · [LinkedIn](https://www.linkedin.com/in/berekettilahun)
