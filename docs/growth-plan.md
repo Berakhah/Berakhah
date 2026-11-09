@@ -51,8 +51,8 @@ same day each month.
 
 ## 5. Profile settings
 
-- **Include private contributions: recommended on** (Settings → Public profile → Contributions & activity). The private repos (`backoffice-kit` and client work)
+- **Include private contributions: on** (turned on 9 Nov 2026). The private repos (`backoffice-kit` and client work)
   hold real effort that the graph doesn't show. GitHub shows only daily counts from them, never
   repo names or details. Don't cite those counts as evidence; they can't be checked.
 - One headline everywhere: **"Security engineer for AI-built apps"**. Done in the profile README,
-  on the site (title, footer, hero) and in the Upwork title (9 Nov). The GitHub bio still needs changing.
+  on the site (title, footer, hero) and in the Upwork title and the GitHub bio (all 9 Nov).
