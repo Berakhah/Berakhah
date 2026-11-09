@@ -31,5 +31,5 @@ Existing commits in agent-perimeter, ground-truth, selector-drift, ledger-sense,
 
 | Repo | Current | Proposed |
 |---|---|---|
-| Adaptive-Zero-Trust-Defense-Platform--AZTDP- | "…Docker Compose stack; not production-ready yet." | "Zero-trust reference platform: per-request risk scoring on top of valid JWTs, with OPA deciding allow, step-up, revoke or deny. Runs as a Docker Compose stack." (The README's Status section keeps the caveat.) |
+| aztdp | "…Docker Compose stack; not production-ready yet." | "Zero-trust reference platform: per-request risk scoring on top of valid JWTs, with OPA deciding allow, step-up, revoke or deny. Runs as a Docker Compose stack." (The README's Status section keeps the caveat.) |
 | shopfast-demo | "INTENTIONALLY VULNERABLE demo store … Do not deploy." | Keep. That warning is a safety label, not hedging. |
