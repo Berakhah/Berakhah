@@ -54,5 +54,5 @@ same day each month.
 - **Include private contributions: recommended on** (Settings → Public profile → Contributions & activity). The private repos (`backoffice-kit` and client work)
   hold real effort that the graph doesn't show. GitHub shows only daily counts from them, never
   repo names or details. Don't cite those counts as evidence; they can't be checked.
-- One headline everywhere: **"Security engineer for AI-built apps"**. Done in the profile README
-  and on the site (title, footer, hero). The GitHub bio and the Upwork title still need changing (9 Nov).
+- One headline everywhere: **"Security engineer for AI-built apps"**. Done in the profile README,
+  on the site (title, footer, hero) and in the Upwork title (9 Nov). The GitHub bio still needs changing.
